@@ -1,7 +1,7 @@
 Members:
-f200316@cfd.nu.edu.pk
-f200309@cfd.nu.edu.pk
-f200152@cfd.nu.edu.pk
+f200316@cfd.nu.edu.pk,( Haseeb Mushtaq)
+f200309@cfd.nu.edu.pk,( Rizwan Nisar)
+f200152@cfd.nu.edu.pk,( Raffay Shahzad)
 
 Web Crawler in c++
 
